@@ -16,4 +16,8 @@ Use callbacks in keras to store data about the model during training which then 
 ![alt text](https://github.com/jaydeepthik/visualizing-learned-embeddings-on-Tensorboard/blob/master/graphs/PCA2.png)
 ![alt text](https://github.com/jaydeepthik/visualizing-learned-embeddings-on-Tensorboard/blob/master/graphs/PCA4.png)
 
+# T-SNE
+![alt text](https://github.com/jaydeepthik/visualizing-learned-embeddings-on-Tensorboard/blob/master/graphs/t-sne.png)
+
+
 
