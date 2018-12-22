@@ -12,4 +12,8 @@ Use callbacks in keras to store data about the model during training which then 
 
 
 # PCA of the embeddings
+![alt text](https://github.com/jaydeepthik/visualizing-learned-embeddings-on-Tensorboard/blob/master/graphs/PCA1.png)
+![alt text](https://github.com/jaydeepthik/visualizing-learned-embeddings-on-Tensorboard/blob/master/graphs/PCA2.png)
+![alt text](https://github.com/jaydeepthik/visualizing-learned-embeddings-on-Tensorboard/blob/master/graphs/PCA4.png)
+
 
