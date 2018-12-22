@@ -8,4 +8,8 @@ Use callbacks in keras to store data about the model during training which then 
    this will log the data and the embeddings for each epoch
    
 2. From the console fire up tensorboard $ tensorboard --logdir=<YOUR_DIR_NAME>
-    in your broser go to http://localhost:6006 to access the logs graphically
+3. In your browser go to http://localhost:6006 to access the logs graphically.
+
+
+# PCA of the embeddings
+
